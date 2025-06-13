@@ -20,7 +20,7 @@ The document is entirely self-contained within the HTML file, requiring no exter
 The guide provides detailed explanations and examples for the following HTML topics:
 - HTML Basic Structure: <!DOCTYPE html>, <html>, <head>, <body>.
 - Meta Tags: charset, viewport, description, keywords, author.
-- Headings & Paragraphs: <h1> - <h6>, <p>.
+- Headings & Paragraphs: <h1>,<h2>,  <h6>, <p>.
 - Strong, Emphasis, Bold, Italic: <strong>, <em>, <b>, <i>.
 - Formatting Tags: <mark>, <small>, <del>, <ins>, <sub>, <sup>, <abbr>, <code>, <cite>.
 - Block-Level and Inline Elements: Understanding the display behavior of elements like <div> and <span>.
