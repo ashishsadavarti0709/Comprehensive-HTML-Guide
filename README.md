@@ -14,7 +14,6 @@ This repository contains a comprehensive HTML document designed to serve as an e
 To view this HTML guide:
 - Clone the repository (if it were in a repository) or download the index.html file directly.
 - Open the index.html file in any modern web browser (e.g., Chrome, Firefox, Edge, Safari).
-
 The document is entirely self-contained within the HTML file, requiring no external server or build process (apart from the Tailwind CSS CDN, which loads automatically).
 
 📚 Topics Covered
