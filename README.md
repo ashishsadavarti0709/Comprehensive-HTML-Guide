@@ -18,8 +18,8 @@ The document is entirely self-contained within the HTML file, requiring no exter
 
 📚 Topics Covered
 The guide provides detailed explanations and examples for the following HTML topics:
-- HTML Basic Structure: <!DOCTYPE html>, <html>, <head>, <body>.
-- Meta Tags: charset, viewport, description, keywords, author.
+- HTML Basic Structure
+- Meta Tags
 - Headings & Paragraphs
 - Strong, Emphasis, Bold, Italic
 - Formatting Tags
