@@ -20,18 +20,18 @@ The document is entirely self-contained within the HTML file, requiring no exter
 The guide provides detailed explanations and examples for the following HTML topics:
 - HTML Basic Structure: <!DOCTYPE html>, <html>, <head>, <body>.
 - Meta Tags: charset, viewport, description, keywords, author.
-- Headings & Paragraphs: <h1>,<h2>,  <h6>, <p>.
-- Strong, Emphasis, Bold, Italic: <strong>, <em>, <b>, <i>.
-- Formatting Tags: <mark>, <small>, <del>, <ins>, <sub>, <sup>, <abbr>, <code>, <cite>.
-- Block-Level and Inline Elements: Understanding the display behavior of elements like <div> and <span>.
-- Lists: Unordered (<ul>), Ordered (<ol>), and Description (<dl>).
-- Images & Links: <img> (with src, alt, onerror) and <a> (with href, target, rel).
-- HTML Tables: <table>, <thead>, <tbody>, <tfoot>, <tr>, <th>, <td>, <caption>.
-- Forms: <form> (with action, method).
-- Input Types: text, password, email, number, date, checkbox, radio, file, submit, reset, button.
-- Form Elements: <textarea>, <select>, <option>, <fieldset>, <legend>, <button>.
-- Semantic HTML: header, nav, main, section, article, aside, footer.
-- Non-Semantic HTML: div, span.
+- Headings & Paragraphs
+- Strong, Emphasis, Bold, Italic
+- Formatting Tags
+- Block-Level and Inline Elements
+- Lists
+- Images & Link
+- HTML Tables
+- Forms
+- Input Types
+- Form Elements
+- Semantic HTML
+- Non-Semantic HTML
 
 👨‍💻 Author
 Ashish Sadavarti
